@@ -1,0 +1,2 @@
+
+The application will get the name from a url and display the content based on attributes defined in the program (The \'93names\'94 will be displayed in a list once successfully fetched). Once a user clicks on a name, the user is let to another activity which displays all the details related to that name. In this activity there is a button called load. Once clicked the user is lead to another activity which displays all the posts made by that particular name.  }
