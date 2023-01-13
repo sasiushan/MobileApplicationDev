@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.16337386018237082" />
+        <entry key="app/src/main/res/drawable/order_quick_time_container.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/search_background.xml" value="0.1905" />
+        <entry key="app/src/main/res/layout/activity_all_res_items.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_restaurant1.xml" value="0.3038949275362319" />
+        <entry key="app/src/main/res/layout/activity_restaurant_one.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_restaurants.xml" value="0.25842696629213485" />
+        <entry key="app/src/main/res/layout/activity_spash.xml" value="0.12376237623762376" />
+        <entry key="app/src/main/res/layout/all_res_items.xml" value="0.36070559610705594" />
+        <entry key="app/src/main/res/layout/basket.xml" value="0.18704710144927536" />
+        <entry key="app/src/main/res/layout/custom_toolbar.xml" value="0.27058823529411763" />
+        <entry key="app/src/main/res/layout/offer_items.xml" value="0.3038949275362319" />
+        <entry key="app/src/main/res/layout/order_quick.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
